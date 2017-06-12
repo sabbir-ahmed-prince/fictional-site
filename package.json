@@ -1,0 +1,13 @@
+{
+  "name": "fictional-site",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabbir-ahmed-prince/fictional-site.git"
+  },
+  "author": "",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
